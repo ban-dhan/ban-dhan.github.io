@@ -1,0 +1,48 @@
+@media screen and (max-width: 800px) {
+    /* Home page */
+    .menu a {
+        padding: 1em 0em;
+        font-size: 8vw;
+    }
+
+    /* Bio */
+    .title {
+        width: 60%;
+        margin-left: auto;
+        margin-right: auto;
+        justify-content: center;
+    }
+
+    .backbutton {
+        width: 15%;
+    }
+
+    .dhanlogo {
+        width: 15%;
+    }
+
+    .titletext {
+        margin-left: -40%;
+        margin-right: -40%;
+        padding: 0;
+        margin-bottom: -40%;
+        width: 210%;
+    }
+
+    .bio {
+        padding: 10%;
+    }
+
+    /* Global */
+    .links {
+        display: flex;
+        position: fixed;
+        bottom: 5%;
+        left: 0;
+        right: 0;
+        width: 80%;
+        padding: 0.5em;
+        padding-bottom: 0.3em;
+        font-size: 4vw;
+    }
+}
